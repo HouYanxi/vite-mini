@@ -1,0 +1,22 @@
+{
+  "name": "vite-mini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "HouYanxi",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.2.45",
+    "koa": "^2.14.1",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vue/compiler-dom": "^3.2.45",
+    "vite": "^4.0.3"
+  }
+}
